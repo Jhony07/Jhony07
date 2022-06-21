@@ -1,7 +1,7 @@
 ##Opa! Eu sou o Jhony
 
 - 📚 Estudando liguagem Web
-- ✉️ Contata-me no email: contantojonathan@gmail.com
+- ✉️ Contata-me no email: contatojonathandev@gmail.com
 
 <div align="center">
   <a href="https://github.com/Jhony07">
