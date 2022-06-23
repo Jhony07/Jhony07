@@ -1,5 +1,3 @@
-##Opa! Eu sou o Jhony
-
 - 📚 Estudando liguagem Web
 
 <div align="center">
